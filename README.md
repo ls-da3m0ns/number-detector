@@ -6,3 +6,4 @@
 #after training model a "mnist_trained_model.h5" named file will be genrated
 #run "python numberdetector.py"
 #for better results write with bold and black pen in white background
+for better understanding read http://yann.lecun.com/exdb/mnist/ 
